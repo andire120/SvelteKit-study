@@ -1,0 +1,24 @@
+<header class = "layout-header">해더 영역</header>
+
+<slot />
+
+<footer class = "layout-footer">푸터 영역</footer>
+
+<style>
+    .layout-header {
+        background-color: #00008b;
+        color: #ffffff;
+        font-size: 30px;
+        text-align: center;
+        padding: 10px;
+    }
+
+    .layout-footer {
+        background-color: #00008b;
+        color: #ffffff;
+        font-size: 30px;
+        text-align: center;
+        padding: 10px;
+    }
+
+</style>

@@ -3,4 +3,4 @@
     const {productId, reviewId} = $page.params;
 </script>
 
-<h1>제품{productId}의 리뷰 {reviewId}</h1>
+<h1>제품{productId}의 리뷰 {reviewId}번</h1>
